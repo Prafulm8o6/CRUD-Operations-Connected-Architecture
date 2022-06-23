@@ -1,0 +1,10 @@
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\bin\Debug\CRUD Operations Connected Architecture.exe.config
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\bin\Debug\CRUD Operations Connected Architecture.exe
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\bin\Debug\CRUD Operations Connected Architecture.pdb
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD Operations Connected Architecture.csprojResolveAssemblyReference.cache
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD_Operations_Connected_Architecture.Form1.resources
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD_Operations_Connected_Architecture.Properties.Resources.resources
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD Operations Connected Architecture.csproj.GenerateResource.Cache
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD Operations Connected Architecture.exe
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD Operations Connected Architecture.pdb
+D:\GitHub\Csharp.Net\External Exam Practice\CRUD-Operations-Connected-Architecture\CRUD Operations Connected Architecture\obj\Debug\CRUD_Operations_Connected_Architecture.Update.resources
